@@ -1,0 +1,35 @@
+
+body{
+    font-family: "Comfortaa", sans-serif;
+    background-color: 	#C0C0C0;
+}
+h1{
+    font-weight: 700;
+    font-size: 32px;
+}
+p{
+    font-weight: 500;
+    font-size: 24;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+img{
+    margin: 40px;
+    width: 300px;
+    height: auto;
+}
+header a{
+    color: black;
+    margin: 20px;
+
+    text-decoration: none;
+}
+footer{
+    display: flex;
+    justify-content: right;
+}
+nav{
+    text-align: center;
+}

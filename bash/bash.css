@@ -1,0 +1,57 @@
+body{
+    font-family: "Comfortaa", sans-serif;
+    background-color: 	#C0C0C0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 32px;
+}
+p{
+    font-weight: 500;
+    font-size: 24;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+img{
+    margin: 40px;
+    margin-bottom: 15px;
+    width: 700px;
+}
+header a{
+    color: black;
+    margin: 20px;
+    text-decoration: none;
+}
+#home{
+    text-decoration: underline;
+}
+main a {
+    color: black;
+    display: flex;
+    margin-bottom: 40px;
+    justify-content: center;
+}
+footer{
+    display: flex;
+    justify-content: right;
+}
+ul{
+    margin: 50px;
+    margin-top: 23px;
+    margin-bottom: 15px;
+}
+nav{
+    text-align: center;
+}
